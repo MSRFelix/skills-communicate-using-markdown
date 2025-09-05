@@ -13,6 +13,11 @@ number = input()
 print("I wil practice my coding " + number + " time(s)")
 ```
 
+- [ ] one GitHub cotributions per day
+- [ ] one Leetcode problem per day
+- [ ] one exercise in CodeCademy per day
+- [ ] one physical exercise per day
+
 
 
 
@@ -31,5 +36,6 @@ print("I wil practice my coding " + number + " time(s)")
 
 
 ###### This is the first file using markdown. The first from manys
+
 
 
